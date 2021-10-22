@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7193f1df5bb5be43",
+        "id": "a048c5e070341784",
         "type": "split",
         "children": [
           {
@@ -16,11 +16,10 @@
                 "file": "Qcom smb2.md",
                 "mode": "source"
               }
-            },
-            "group": "18232c306fb8ba6e"
+            }
           },
           {
-            "id": "5ec057d84b68cf26",
+            "id": "4c5e7f185716f4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,8 +27,7 @@
                 "file": "Qcom smb2.md",
                 "mode": "preview"
               }
-            },
-            "group": "18232c306fb8ba6e"
+            }
           }
         ],
         "direction": "horizontal"
