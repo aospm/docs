@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a048c5e070341784",
-        "type": "split",
-        "children": [
-          {
-            "id": "e1068c14af657c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qcom smb2.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "4c5e7f185716f4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qcom smb2.md",
-                "mode": "preview"
-              }
-            }
+        "id": "e1068c14af657c4a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Qcom smb2.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"

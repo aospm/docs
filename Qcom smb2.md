@@ -334,6 +334,8 @@ The #USBIN_INT_RT_STS register is read to check if the event was a plug-in or un
 
 Next, `__pm_stay_awake()` is called if this was a plug-in even to prevent the device from suspending during charge. If this was an unplug event, `__pm_relax()` is called instead.
 
+The property `fake_usb_insertion` is used to deal with the case where a SINK device was attached and the VBUS regulator was enabled. Turning on VBUS causes the #USBIN_PLUGIN_IRQ to fire as if a charger was attached, so it should return immediately.
+
 #### Attach
 
 
